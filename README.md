@@ -1,1 +1,4 @@
-# how-to-use-jupyter-notebooks
+# How to use jupyter notebooks?
+
+* Edit a jupyter notebook
+* Create a new jupyter notebook in Gitpod
